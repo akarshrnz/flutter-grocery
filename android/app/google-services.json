@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867266968599",
+    "project_id": "shopeeapp-743f2",
+    "storage_bucket": "shopeeapp-743f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867266968599:android:ff15606d74a634c85f3052",
+        "android_client_info": {
+          "package_name": "com.codecarrots.shopee.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsLQyTVRspO33IC3i1mu3Gc2FdWvQaNck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
